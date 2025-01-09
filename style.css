@@ -1,18 +1,24 @@
 body{
     background-color: #322;
-    color: white;
+    color: black;
     font-family: sans-serif;
     margin: 0;
-    padding: 0;
+    padding: 0px 10px;
 }
 
 .container{
-    background-color: #644;
+    background-color: rgb(237, 226, 226);
     border-radius: 10px;
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
     margin: 100px auto;
-    max-width: 600px;
+    max-width: 500px;
     padding: 40px;
+    /* height: 100vh; */
+    /* top: 50%;
+    left:50%;
+    position: absolute;
+    transform: translate(-50%, -50%); */
+
 }
 
 .result{
